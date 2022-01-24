@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+.close {
+    text-align: right;
+}
+
+.scroll {
+    overflow: auto;
+
+    max-height: 65vh;
+    max-width: 90vw;
+}
